@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Josh!
-- 👀 I’m interested in Front-end web development and transfering those skills onto my jailbroken iPhone, whose battery thanks me less and less as each day passes :)
-- 🌱 I’m currently learning React and SASS, with a heavy focus on writing accessible HTML.
+- 👀 I’m interested in Front-end web development and learning from any developer who is willing to give me their time.
+- 🌱 I’m currently learning React, React Router, SASS, and writing accessible HTML.
 - 📫 You can reach me via email at josh.jamesonwallis@gmail.com, or on my mobile at 07884400668 (yes, that is actually my number).
+- Have a great day! :)
