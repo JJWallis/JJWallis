@@ -1,5 +1,5 @@
 - Hey, I’m Josh!
-- I work professionally as a Front-end web developer, but I am currently learning back-end technologies as well.
+- I work professionally as a front-end web developer, but I am currently learning back-end technologies as well.
 - Tech I'm learning: Next.js, Node.js, Express and MongoDB.
 - You can reach me via email at josh.jamesonwallis@gmail.com, or on my mobile at 07884400668.
 - Have a great day! :)
