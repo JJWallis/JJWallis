@@ -1,7 +1,6 @@
 - Hey, I’m Josh!
-- I’m interested in Front-end web development and learning from any developer who is willing to give me their time.
-- I’m currently learning Next.js, Cypress, Jest and AMP.
-- Feel free to check out my blog where I talk about everything I've learnt: https://jjwallis.bearblog.dev/  
-- You can reach me via email at josh.jamesonwallis@gmail.com, or on my mobile at 07884400668 (yes, that is actually my number).
+- I work professionally as a Front-end web developmer, but I am currently learning back-end technologies as well.
+- Tech I'm learning: Next.js, Node.js, Express and MongoDB.
+- You can reach me via email at josh.jamesonwallis@gmail.com, or on my mobile at 07884400668.
 - Have a great day! :)
 - [Website](https://www.joshuajamesonwallis.com/) | [Linkedin](https://www.linkedin.com/in/joshua-jameson-wallis/)
