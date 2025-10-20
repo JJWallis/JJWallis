@@ -1,5 +1,6 @@
 - Hey, I’m Josh!
 - I currently work as a full-time software engineer for The Independent in central London.
+- I am also learning Mock Service Worker JS to see how we can improve our test mocks project wide. 
 - Tech I am excited to learn further: Next.js, Docker, YML (github actions).
 - You can reach me via email at josh.jamesonwallis@gmail.com or on [Linkedin](https://www.linkedin.com/in/joshua-jameson-wallis/).
 - 'Nothing helps you learn faster than an inscrutable error message, if you have the right mindset.' - Josh Comeau
